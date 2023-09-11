@@ -1,0 +1,78 @@
+
+.firstHead{
+
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    margin-top: 3rem;
+    
+}
+
+#gridHeading {
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 3rem;
+  }
+  
+  #gridHeading::before {
+    content: "Grid Layout Template";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: linear-gradient(to top, #d92a21, #ee3f75, #e36dbc, #c499eb, #a8bdff, #96beff, #83befe, #6ebffc, #39a4fb, #0087f6, #0068ed, #2644dc);   background-clip: text;
+    -webkit-background-clip: text; /* For Safari support */
+    color: transparent;
+  }
+
+.editGrid{
+
+    min-height: 600px;
+    background-color: rgb(230, 128, 60);
+    text-align: center;
+    border: 2px solid black;
+    margin: 10px;
+}
+
+.editGrid2{
+
+    min-height: 600px;
+    background-color: rgb(150, 171, 245);
+    text-align: center;
+    border: 2px solid black;
+    margin: 10px;
+}
+
+
+.editGrid3{
+
+    min-height: 600px;
+    background-color: rgb(80, 212, 73);
+    text-align: center;
+    border: 2px solid black;
+    margin: 10px;
+
+}
+
+.mainText{
+
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#lftside1, #mainDiv1, #rhtSide1{
+
+    font-size: 21px;
+}
+
+#lftside1, #mainDiv1{
+
+    margin-top: 65px;
+}
+
+#rhtSide1{
+
+    margin-top: 20px;
+}
