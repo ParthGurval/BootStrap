@@ -4,8 +4,7 @@
     text-align: center;
     text-decoration: underline;
     text-transform: uppercase;
-    margin-top: 3rem;
-    
+    margin-top: 3rem;    
 }
 
 #gridHeading {
@@ -23,7 +22,7 @@
     right: 0;
     bottom: 0;
     background-image: linear-gradient(to top, #d92a21, #ee3f75, #e36dbc, #c499eb, #a8bdff, #96beff, #83befe, #6ebffc, #39a4fb, #0087f6, #0068ed, #2644dc);   background-clip: text;
-    -webkit-background-clip: text; /* For Safari support */
+    -webkit-background-clip: text;
     color: transparent;
   }
 

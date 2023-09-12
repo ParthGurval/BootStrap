@@ -1,0 +1,48 @@
+
+
+.divTest1{
+
+    min-height: 100px;
+    background-color: lightgreen;
+    text-align: center;
+    border: 2px solid black;
+    margin: 10px;
+    /* width: 105rem; */
+
+}
+
+.divTest2{
+
+    min-height: 500px;
+    background-color: lightgreen;
+    text-align: center;
+    border: 2px solid black;
+    margin: 10px;
+}
+
+.divTest3{
+
+    min-height: 400px;
+    background-color: lightgreen;
+    text-align: center;
+    border: 2px solid black;
+    margin-left: 15rem;
+    margin-top: 50px;
+}
+
+/* .container{
+
+  margin: 0px;
+  background-image: url(./pexels-pixabay-531880.jpg);
+  border-image-repeat: none;
+  background-size: cover;
+  background-position: center;
+  margin-top: 100px;
+  margin-left: 100px;
+} */
+
+body{
+
+    background-image: url("./pexels-pixabay-531880.jpg");
+    background-repeat: none;
+}

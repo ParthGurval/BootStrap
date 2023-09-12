@@ -1,0 +1,11 @@
+
+.row{
+    margin: 10px;
+}
+
+.teamIND, .teamAUS, .teamNZ, .teamENG, .stadiumIND, .stadiumAUS, .stadiumENG, .wordCup2024, .manOfTor, .highRns, .highWck, .highSxFr, .winnerTor, .rnrUp{
+
+    min-height: 500px;
+    background-color: skyblue;
+    border: 2px solid black;
+}

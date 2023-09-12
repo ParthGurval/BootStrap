@@ -1,0 +1,31 @@
+
+.row{
+
+    margin: 20px;
+}
+
+.headName{
+
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase   ;
+}
+
+.tramIND{
+
+    min-height: 600px;
+    background-color: skyblue;
+    text-align: center;
+    border: 2px solid black;
+    margin: 10px;
+}
+
+.tramIND .teamPlayers{
+
+    text-align: left;
+}
+
+.tramIND .stdmList{
+
+    text-align: left;
+}
