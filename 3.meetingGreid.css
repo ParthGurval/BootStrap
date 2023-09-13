@@ -4,6 +4,11 @@
     margin: 20px;
 }
 
+h1{
+    font-family: 'Noto Serif Telugu', serif;
+
+}
+
 .headName{
 
     text-align: center;
@@ -20,12 +25,80 @@
     margin: 10px;
 }
 
-.tramIND .teamPlayers{
 
-    text-align: left;
+.tramName, .stadiums{
+
+    min-height: 600px;
+    background-color: skyblue;
+    text-align: center;
+    border: 2px solid black;
+    margin: 10px;
 }
 
-.tramIND .stdmList{
+.tramName .teamPlayers{
 
     text-align: left;
+    font-family: 'Roboto Slab', serif;
+}
+
+.tramName .teamHdNm{
+    
+    font-family: 'Libre Baskerville', serif;
+}
+
+.stadiums .teamGroundNm{
+
+    font-family: 'Libre Baskerville', serif;
+}
+
+.stadiums .stdmList{
+
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.awards, .wordCup{
+
+    min-height: 600px;
+    background-color: skyblue;
+    text-align: center;
+    border: 2px solid black;
+    margin: 10px;
+}
+
+.awards .teamAwd{
+
+    font-family: 'Black Ops One', cursive;
+}
+
+
+
+.wordCup .mainCnt{
+
+    font-family: 'Black Ops One', cursive;
+}
+
+.plrNm{
+
+    font-family: 'Patua One', cursive;
+}
+
+.rankTeam{
+
+    font-family: 'Lobster', cursive;
+}
+
+.teamAwdNm{
+
+    font-family: 'Crete Round', serif;
+}
+
+.descr{
+
+    font-family: 'El Messiri', sans-serif;
+}
+
+.wordCupDesc{
+    
+    font-family: 'Kaushan Script', cursive;
 }

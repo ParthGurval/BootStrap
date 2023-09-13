@@ -1,0 +1,150 @@
+
+.container{
+
+    position: absolute;
+    top: 30px;
+    left: 100px;
+}
+
+select {
+    padding: 10px;
+    font-size: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Styling for the select options */
+select option {
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+nav{
+    background: #171c24;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    height: 70px;
+    padding: 0 100px;
+}
+
+nav .logo{
+    color: #fff;
+    font-size: 30px;
+    font-weight: 600;
+    letter-spacing: -1px;
+  }
+
+nav .logo{
+
+    display: inline-block;
+}
+
+nav .logo:hover{
+
+    color: aqua;
+}
+
+nav .navList li{
+
+    display: inline-block;
+    color: aqua;
+    margin-left: 20px;
+    margin-right: 100px;
+}
+
+.navList {
+
+    font-size: 23px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+
+.row2Div{
+
+    /* height: 500px;
+    width: 800px; */
+    background-color: lightcyan;
+    background-image: url(./Photos/Space1.jpg);
+    color: white;
+    text-align: center;
+    margin-top: 2.5rem;
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+}
+
+.firstBox{
+
+    background-color: snow;
+    height: 13.9rem;
+    margin-top: 2.5rem;
+    justify-content: center;
+    border: 1px solid grey;
+    text-align: center;
+}
+
+.secondBox{
+
+    background-color: snow;
+    height: 13.9rem;
+    margin-top: 2.5rem;
+    border: 1px solid grey;
+    text-align: center;
+}
+
+.thirdBox{
+
+    background-color: snow;
+    height: 13.9rem;
+    margin-top: 2.5rem;
+    border: 1px solid grey;
+    text-align: center;
+}
+
+.fourthBox{
+
+    background-color: snow;
+    height: 19.7rem;
+    margin-top: 2.5rem;
+    border: 1px solid grey;
+    text-align: center;
+}
+
+.dibImg1{
+
+    background-image: url(./Photos/iPhone14.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 170px;
+    background-color: red;
+}
+
+.dibImg2{
+
+    background-image: url(./Photos/iPad-Pro.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 170px;
+    background-color: red;
+}
+
+.dibImg3{
+
+    background-image: url(./Photos/HP-AIO.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 170px;
+    background-color: red;
+}
+
+
+.subCol1, .subCol2, .subCol3{
+
+    border: 1px solid gray;
+}
