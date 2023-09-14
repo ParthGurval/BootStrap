@@ -107,7 +107,7 @@ nav .navList li{
 .fourthBox{
 
     background-color: snow;
-    height: 19.7rem;
+    height: 13.9rem;
     margin-top: 2.5rem;
     border: 1px solid grey;
     text-align: center;
@@ -147,4 +147,52 @@ nav .navList li{
 .subCol1, .subCol2, .subCol3{
 
     border: 1px solid gray;
+}
+
+.nestedHead{
+
+    font-size: 16.9px;
+}
+
+.forthRow{
+
+    margin-top: 50px;
+}
+
+.firstImg, .secondImg, .thirdImg, .fourthImg{
+
+    height: 200px;
+    width: 300px;
+    /* border: 2px solid black; */
+    margin: 15px;    
+    padding: 0px;
+}
+
+.firstImg img, .secondImg img, .thirdImg img, .fourthImg img{
+
+    max-width: 100%;
+    max-height: 100%;
+    height: 200px;
+    /* height: auto;
+    width: auto;
+    display: block;
+    margin: 0 auto; */
+}
+
+.rowButton{
+
+    border: 1px solid gray;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.subButton1{
+
+    margin-left: 15px;
+    border: 1px solid black;
+}
+
+.subButton{
+
+    margin-left: 15px;
 }

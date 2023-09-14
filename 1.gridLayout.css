@@ -32,7 +32,7 @@
     background-color: rgb(230, 128, 60);
     text-align: center;
     border: 2px solid black;
-    margin: 10px;
+    /* margin: 10px; */
 }
 
 .editGrid2{
@@ -41,7 +41,7 @@
     background-color: rgb(150, 171, 245);
     text-align: center;
     border: 2px solid black;
-    margin: 10px;
+    /* margin: 10px; */
 }
 
 
@@ -51,7 +51,7 @@
     background-color: rgb(80, 212, 73);
     text-align: center;
     border: 2px solid black;
-    margin: 10px;
+    /* margin: 10px; */
 
 }
 

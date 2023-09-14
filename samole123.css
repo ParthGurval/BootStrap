@@ -1,0 +1,21 @@
+.sampleClon{
+
+    height: 100px;
+    background-color: gray;
+    margin: 10px;
+}
+
+.sampleClon1{
+
+    height: 100px;
+    background-color: gray;
+    margin: 10px;
+    width: 250px;
+}
+
+
+.subCol{
+
+    height: 100px;
+    background-color: lightgreen;
+}
