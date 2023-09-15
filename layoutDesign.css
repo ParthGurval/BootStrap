@@ -1,0 +1,32 @@
+
+
+.firstHalf, .secondHalf{
+
+    height: 100px;
+    background-color: lightgreen;
+}
+
+.firstHalf, .secondCol{
+
+    height: 200px;
+    background-color: lightblue;
+    width: 200px;
+}
+
+.firstHalf{
+
+    margin-left: 14rem;
+}
+
+
+.oneCol, .twoCol, .threeCol{
+
+    height: 100px;
+    background-color: cadetblue;
+}
+
+.fourOneCol, .fourTwoCol{
+
+    height: 100px;
+    color: navy;
+}

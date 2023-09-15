@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test</title>
+    <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <style>
+        .oneCol, .twoCol, .threeCol{
+
+            height: 100px;
+            background-color: cadetblue;
+        }
+            
+         .subCol1,  .subCol2{
+            
+            height: 100px;
+            background-color: navy;
+            color: white;
+        }
+
+    </style>
+</head>
+<body>
+    
+    <div class="container">
+
+        <div class="row">
+
+            <div class="col-md-3">
+                <div class="oneCol">
+                    oneCol
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="twoCol">
+                    twoCol
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="threeCol">
+                    threeCol
+                </div>
+            </div>
+
+            <div class="col-md-3 lastRow">
+                
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="subCol1">fourOneCol</div>
+                    </div>
+                    
+                    <div class="col-md-6">
+                        <div class="subCol2">fourTwoCol</div>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</body>
+</html>
