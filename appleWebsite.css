@@ -1,0 +1,84 @@
+
+
+.navbar-nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar-nav li {
+    margin: 0 10px; /* Add some horizontal spacing between items if needed */
+}
+
+.appleSbl{
+
+    display: flex;
+    margin-left: 175px;
+}
+
+.secondRow{
+
+    display: flex;
+    margin-top: 70px;
+    justify-content: center;
+    align-items: center;
+}
+
+.immgRow{
+
+    height: 550px;
+    background-color: lightskyblue;
+    margin-top: 25px;
+    background-image: url(./Photos/iPhone15Pro.png);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.headImg, .subHeadImg, .textImg{
+
+    color: white;
+    display: flex;
+}
+
+.textImg{
+
+    color: rgb(172, 172, 172);
+    font-size: 21px;
+}
+
+.linkImg{
+
+    font-size: 22px;
+}
+
+.linkImg .subLink2{
+
+    margin-left: 24px;
+}
+
+.imgRow2{
+
+    height: 690px;
+    background-color: lightcyan;
+    margin-top: 10px;
+    background-image: url(./Photos/iphone15Pro_Pic3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.imgRow3{
+
+    height: 700px;
+    margin-top: 10px;
+    /* background-image: url(./Photos/iPhone15Pro_Pic2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+
+.subImgRow3{
+
+    margin-left: 150px;
+}
