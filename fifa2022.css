@@ -1,0 +1,32 @@
+.headList{
+
+    width: 97vw;
+    z-index: 1040;
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding-inline-end: 2rem;
+    height: 0.5rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    height: 32px;
+   
+}
+
+.globalNav{
+
+    background-color: rgb(70, 0, 101);
+   
+
+}
+
+.globalNav .logo .logoName{
+    color: white!important;
+}
+
+.subNav{
+
+    background-color: #550065;
+}
+
