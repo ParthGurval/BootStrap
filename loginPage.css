@@ -108,14 +108,32 @@ body{
 
 .regButton:hover{
 
-    background-color: white !important;
+    /* background-color: white !important; */
     color: black !important;
     font-weight: 800px;
-    border-color: black !important;
+    /* border-color: black !important; */
 }
 
 .box2Head{
 
     margin-top: 99px;
 
+}
+
+
+.loginFrame{
+
+    height: 650px;
+    width: 950px;
+}
+
+.linkPage a{
+
+    color: white !important; 
+    text-decoration: none;
+}
+
+.linkPage:hover{
+
+    color: black !important;
 }
